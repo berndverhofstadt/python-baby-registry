@@ -1,0 +1,56 @@
+html {
+	height: 100%;
+}
+
+.img-responsive {
+    width: 60%;
+}
+
+.img-top {
+	padding-top: 10px;
+}
+.card {
+	box-model: border-box;
+	background-clip: padding-box;
+	background-color: #EEE;
+	border: 10px solid transparent;
+	padding-top: 10px;
+}
+
+.favo {
+	text-align: right;
+	color: #4B8B3B;
+}
+
+.category {
+	color: #FFF;
+}
+
+.card-footer {
+	background: none;
+}
+
+.card-header {
+	background: none;
+}
+
+.wrap {
+	white-space: pre-wrap;
+}
+
+.green {
+	color: #99BF71;
+	font-size: 13pt;
+}
+
+.bg-navigation {
+	background-color: #99BF71;
+}
+
+.title-text {
+	color: white;
+}
+
+.welcome-text {
+	font-size: 14pt;
+}

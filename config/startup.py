@@ -1,0 +1,20 @@
+ADDRESS = "STREET XX, XXXX CITY"
+BABY_FIRSTNAME = "John"
+BABY_LASTNAME = "Doe"
+BANKDETAILS = "BEXX XXXX XXXX XXXX"
+BASE_URL = "http://127.0.0.1"
+EMAIL = "baby@baby.be"
+EMAILFOLDER = "Sent.BR"
+EMAILIMAP = "imap.baby.be"
+EMAILIMAPPORT = 993
+EMAILPASSWD = "baby"
+EMAILSMTP = "smtp.baby.be"
+EMAILSMTPPORT = 465
+LANG = "nl"
+SESSION_OPTIONS = dict(
+    cookie_expires=True,
+    httponly=True,
+    timeout=3600 * 24,  # 1 day
+    type='cookie'
+)
+TITLE = "Baby Registry"
