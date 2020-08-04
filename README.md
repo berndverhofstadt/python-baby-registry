@@ -2,7 +2,7 @@
  A self-hosted baby registry written in Python using bottle for routing, bottle-cork for authentication and sqlite for data storage.
 
 ## Installation
-Install the necesarry modules from requirements.txt, pull this repository and run it:
+Install the necessary modules from requirements.txt, pull this repository and run it:
 ```
 python3.x app.py
 ```
