@@ -26,3 +26,18 @@ config/startup.py
 ```
 The translation folder contains an English and a Dutch version of the app.
 
+## Dockerized
+
+Steps to run container:
+1. Install tools and dependencies via [https://www.docker.com/blog/how-to-dockerize-your-python-applications/].  
+1. Build image
+1. Start container
+
+## Login
+
+Default credentials are "admin" & "admin"  
+To view as a buyer, you can use "user" & "user"  
+Please update credentials!
+
+## Notes
+SMTP config not tested in combination with dockerfile.
